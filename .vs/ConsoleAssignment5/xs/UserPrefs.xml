@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{45DD5769-9FB7-4365-BBD7-24C472625679}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleAssignment5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAssignment5/Program.cs">
+    <Files>
+      <File FileName="ConsoleAssignment5/Program.cs" Line="107" Column="209" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAssignment5" expanded="True">
+            <Node name="ConsoleAssignment5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
